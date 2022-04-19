@@ -40,4 +40,5 @@ sudo chmod +x [file]
 ./[file]
 
 	
-	
+	# GUI Partition Editor (forcibly formating)
+sudo gparted
