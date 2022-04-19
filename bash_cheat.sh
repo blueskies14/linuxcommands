@@ -42,3 +42,6 @@ sudo chmod +x [file]
 	
 	# GUI Partition Editor (forcibly formating)
 sudo gparted
+
+	# Install program with apt
+sudo apt install keepassxc
